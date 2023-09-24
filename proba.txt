@@ -1,2 +1,4 @@
 hello
 
+new text for commit
+
